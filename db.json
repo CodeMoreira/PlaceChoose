@@ -1,0 +1,69 @@
+{
+  "places":[
+    {
+      "id":1,
+      "gatedCommunity_name":"Condominio aves do sul",
+      "place_name":"Casa de luxo.",
+      "img":"https://s2.glbimg.com/s2Vf9NNIOux1YO6Ev-x8F7OqEb4=/smart/e.glbimg.com/og/ed/f/original/2018/10/26/gd8_onehaus_c04-piscina_r08.jpg",
+      "desc":"Com um terreno de quase 4 mill m², moveis planejados e bem localizado, essa casa conta com uma vegetação muito bem cuidada, garagem coberta e segurança 24h garantida pelo condominio. Pensada para ser uma casa que abriga toda a família – e por muito anos – o lar tem tudo o que se espera de uma casa de alto padrão"
+    },
+    {
+      "id":2,
+      "gatedCommunity_name":"Coronel Jassinto",
+      "place_name":"Casa com piscina",
+      "img":"https://www.guarajubaimoveis.com.br/image/_otimizada/1621/020190517164619.png",
+      "desc":"Uma casa mais simples para solteiro ou casal que conta com ótimo espaço interno e externo, churrasqueira coberta, piscina e um quintal espaçoso com gramado natural."
+    },
+    {
+      "id":3,
+      "gatedCommunity_name":"Vila Pátria",
+      "place_name":"Sobrado",
+      "img":"https://www.orlando4villas.com/assets/images/houses/3698/orig_1.jpg",
+      "desc":"Essa casa é perfeita para quem tem filhos e faz gosta de fazer axercicios. Localizado proximo as areas de lazer e ao lado de uma academia esse sobrado conta com 4 quartos, uma sala de jogos, moveis planejados, e em 2 dos quartos uma cama king size para você descansar tranquilamente."
+    },
+    {
+      "id":4,
+      "gatedCommunity_name":"Condominio aves do sul",
+      "place_name":"Casa de luxo",
+      "img":"https://s2.glbimg.com/s2Vf9NNIOux1YO6Ev-x8F7OqEb4=/smart/e.glbimg.com/og/ed/f/original/2018/10/26/gd8_onehaus_c04-piscina_r08.jpg",
+      "desc":"Com um terreno de quase 4 mill m², moveis planejados e bem localizado, essa casa conta com uma vegetação muito bem cuidada, garagem coberta e segurança 24h garantida pelo condominio. Pensada para ser uma casa que abriga toda a família – e por muito anos – o lar tem tudo o que se espera de uma casa de alto padrão"
+    },
+    {
+      "id":5,
+      "gatedCommunity_name":"Coronel Jassinto",
+      "place_name":"Casa com piscina",
+      "img":"https://www.guarajubaimoveis.com.br/image/_otimizada/1621/020190517164619.png",
+      "desc":"Uma casa mais simples para solteiro ou casal que conta com ótimo espaço interno e externo, churrasqueira coberta, piscina e um quintal espaçoso com gramado natural."
+    },
+    {
+      "id":6,
+      "gatedCommunity_name":"Vila Pátria",
+      "place_name":"Sobrado",
+      "img":"https://www.orlando4villas.com/assets/images/houses/3698/orig_1.jpg",
+      "desc":"Essa casa é perfeita para quem tem filhos e faz gosta de fazer axercicios. Localizado proximo as areas de lazer e ao lado de uma academia esse sobrado conta com 4 quartos, uma sala de jogos, moveis planejados, e em 2 dos quartos uma cama king size para você descansar tranquilamente."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "active": true,
+      "name": "Jhonatan",
+      "email": "jhony@teste.com",
+      "phone": "+55 (01) 9 9900-0001"
+    },
+    {
+      "id": 1,
+      "active": true,
+      "name": "Wentony",
+      "email": "tony@teste.com",
+      "phone": "+55 (02) 9 9900-0002"
+    },
+    {
+      "id": 1,
+      "active": false,
+      "name": "Gabriel",
+      "email": "biel@teste.com",
+      "phone": "+55 (03) 9 9900-0003"
+    }
+  ]
+}
