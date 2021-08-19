@@ -1,7 +1,7 @@
 # PlaceChoose
 Here you can navigate and choose a perfect place for enjoy your vacation. Click on some picture of the place that you liked and get more informations of the place.
 
-## Demonstrations
+## Demo
 <h1 align="center">Light Theme
 </h1>
 <div align="center">
